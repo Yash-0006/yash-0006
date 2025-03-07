@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Yaswanth Godavarthi and I'm a React Developer, from GIET Engineering College, Rajahmundry, Andhra Pradesh.</h2>
 
 ###
 
