@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yaswanth Godavarthi and I'm a React Developer, from GIET Engineering College, Rajamahendravaram, Andhra Pradesh.</h2>
+<h2 align="left">Hi 👋! I am Yaswanth Godavarthi and I'm a React Developer, from GIET Engineering College, Rajamahendravaram, Andhra Pradesh.</h2>
 
 ###
 
