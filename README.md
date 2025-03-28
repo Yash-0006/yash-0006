@@ -67,6 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Yash-0006/yash-0006/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Yash-0006/yash-0006/blob/output/github-snake.svg" alt="Snake animation" />
 
 ###
